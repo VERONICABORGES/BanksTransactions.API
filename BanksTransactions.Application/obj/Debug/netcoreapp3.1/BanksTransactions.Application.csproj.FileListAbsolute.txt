@@ -1,0 +1,13 @@
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\bin\Debug\netcoreapp3.1\BanksTransactions.Application.deps.json
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\bin\Debug\netcoreapp3.1\BanksTransactions.Application.dll
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\bin\Debug\netcoreapp3.1\BanksTransactions.Application.pdb
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.AssemblyInfoInputs.cache
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.AssemblyInfo.cs
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.csproj.CoreCompileInputs.cache
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.dll
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.pdb
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.csproj.AssemblyReference.cache
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\bin\Debug\netcoreapp3.1\BanksTransactions.Domain.dll
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\bin\Debug\netcoreapp3.1\BanksTransactions.Domain.pdb
+C:\Users\veronica\Desktop\Backup-AreaTrabalho\Desafios Tecnicos\BanksTransactions.API\BanksTransactions.Application\obj\Debug\netcoreapp3.1\BanksTransactions.Application.csproj.CopyComplete
